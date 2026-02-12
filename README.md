@@ -10,7 +10,7 @@
 
 #### 🎯 My Newly Published Game: **Taurus: The Brick Breaking Saga**
 
-[![Get it on Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)][(https://play.google.com/store/apps/details?id=com.taurusthebrickbreakingsaga)]
+[![Get it on Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.taurusthebrickbreakingsaga)
 
 🌐 **Visit the website:** [https://www.toledoapps.com]
 
