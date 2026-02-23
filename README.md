@@ -43,14 +43,14 @@ My games focus on:
 
 ### 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=g3th&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g3th&layout=compact&theme=radical)
 
 ---
 
 *🎮 Building games that challenge and entertain | 💻 Sharing knowledge through code*
 
 <!-- Links -->
-[playstore-link]: YOUR_PLAY_STORE_URL_HERE
-[company-website]: YOUR_WEBSITE_URL_HERE
+[playstore-link]: (https://play.google.com/store/apps/dev?id=8152901212163938779)
+[company-website]: (htpps://www.toledoapps.com)
