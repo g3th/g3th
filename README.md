@@ -37,8 +37,8 @@ My games focus on:
 
 ### 🔗 Connect & Follow
 
-- 🌐 Website: ["Toledo Apps](https://www.toledoapps.com)
-- 🎮 Play Store: [https://play.google.com/store/apps/details?id=com.taurusthebrickbreakingsaga]
+- 🌐 Website: [Toledo Apps Main Site](https://www.toledoapps.com)
+- 🎮 Play Store: [Toledo Apps on Google Playstore](https://play.google.com/store/apps/details?id=com.taurusthebrickbreakingsaga)
 ---
 
 ### 📊 GitHub Activity
